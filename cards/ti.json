@@ -1,0 +1,1228 @@
+{
+  "cards" : [
+    {
+      "name" : "Afghanistan",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "1.5"},
+      {"name" : "% pop that reported corruption", "value" : "69%"},
+      {"name" : "% pop that paid bribe to police", "value" : "53%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "35%"},
+      {"name" : "corruption in political parties", "value" : "2.9"},
+      {"name" : "% pop that paid bribe", "value" : "17%"}
+      ]
+    },
+    {
+      "name" : "Argentina",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.0"},
+      {"name" : "% pop that reported corruption", "value" : "88%"},
+      {"name" : "% pop that paid bribe to police", "value" : "22%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "12%"},
+      {"name" : "corruption in political parties", "value" : "4.1"},
+      {"name" : "% pop that paid bribe", "value" : "24%"}
+      ]
+    },
+    {
+      "name" : "Armenia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.6"},
+      {"name" : "% pop that reported corruption", "value" : "34%"},
+      {"name" : "% pop that paid bribe to police", "value" : "39%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "27%"},
+      {"name" : "corruption in political parties", "value" : "3.6"},
+      {"name" : "% pop that paid bribe", "value" : "37%"}
+      ]
+    },
+    {
+      "name" : "Australia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "8.8"},
+      {"name" : "% pop that reported corruption", "value" : "90%"},
+      {"name" : "% pop that paid bribe to police", "value" : "3%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "36%"},
+      {"name" : "corruption in political parties", "value" : "3.7"},
+      {"name" : "% pop that paid bribe", "value" : "1%"}
+      ]
+    },
+    {
+      "name" : "Austria",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "7.8"},
+      {"name" : "% pop that reported corruption", "value" : "72%"},
+      {"name" : "% pop that paid bribe to police", "value" : "4%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "28%"},
+      {"name" : "corruption in political parties", "value" : "3.2"},
+      {"name" : "% pop that paid bribe", "value" : "15%"}
+      ]
+    },
+    {
+      "name" : "Azerbaijan",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.4"},
+      {"name" : "% pop that reported corruption", "value" : "64%"},
+      {"name" : "% pop that paid bribe to police", "value" : "56%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "66%"},
+      {"name" : "corruption in political parties", "value" : "2.6"},
+      {"name" : "% pop that paid bribe", "value" : "32%"}
+      ]
+    },
+    {
+      "name" : "Bangladesh",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.7"},
+      {"name" : "% pop that reported corruption", "value" : "14%"},
+      {"name" : "% pop that paid bribe to police", "value" : "84%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "61%"},
+      {"name" : "corruption in political parties", "value" : "3.8"},
+      {"name" : "% pop that paid bribe", "value" : "45%"}
+      ]
+    },
+    {
+      "name" : "Belarus",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.4"},
+      {"name" : "% pop that reported corruption", "value" : "50%"},
+      {"name" : "% pop that paid bribe to police", "value" : "27%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "39%"},
+      {"name" : "corruption in political parties", "value" : "3.2"},
+      {"name" : "% pop that paid bribe", "value" : "19%"}
+      ]
+    },
+    {
+      "name" : "Bolivia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.8"},
+      {"name" : "% pop that reported corruption", "value" : "90%"},
+      {"name" : "% pop that paid bribe to police", "value" : "49%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "47%"},
+      {"name" : "corruption in political parties", "value" : "4.2"},
+      {"name" : "% pop that paid bribe", "value" : "18%"}
+      ]
+    },
+    {
+      "name" : "Bosnia and Herzegovina",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.2"},
+      {"name" : "% pop that reported corruption", "value" : "82%"},
+      {"name" : "% pop that paid bribe to police", "value" : "20%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "23%"},
+      {"name" : "corruption in political parties", "value" : "4.1"},
+      {"name" : "% pop that paid bribe", "value" : "33%"}
+      ]
+    },
+    {
+      "name" : "Brazil",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.8"},
+      {"name" : "% pop that reported corruption", "value" : "88%"},
+      {"name" : "% pop that paid bribe to police", "value" : "6%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "29%"},
+      {"name" : "corruption in political parties", "value" : "4.1"},
+      {"name" : "% pop that paid bribe", "value" : "3%"}
+      ]
+    },
+    {
+      "name" : "Bulgaria",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.3"},
+      {"name" : "% pop that reported corruption", "value" : "71%"},
+      {"name" : "% pop that paid bribe to police", "value" : "16%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "48%"},
+      {"name" : "corruption in political parties", "value" : "4.1"},
+      {"name" : "% pop that paid bribe", "value" : "20%"}
+      ]
+    },
+    {
+      "name" : "Burundi",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "1.9"},
+      {"name" : "% pop that reported corruption", "value" : "91%"},
+      {"name" : "% pop that paid bribe to police", "value" : "35%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "46%"},
+      {"name" : "corruption in political parties", "value" : "3.7"},
+      {"name" : "% pop that paid bribe", "value" : "7%"}
+      ]
+    },
+    {
+      "name" : "Cambodia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.1"},
+      {"name" : "% pop that reported corruption", "value" : "72%"},
+      {"name" : "% pop that paid bribe to police", "value" : "82%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "72%"},
+      {"name" : "corruption in political parties", "value" : "3.1"},
+      {"name" : "% pop that paid bribe", "value" : "12%"}
+      ]
+    },
+    {
+      "name" : "Cameroon",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.5"},
+      {"name" : "% pop that reported corruption", "value" : "72%"},
+      {"name" : "% pop that paid bribe to police", "value" : "67%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "28%"},
+      {"name" : "corruption in political parties", "value" : "4.0"},
+      {"name" : "% pop that paid bribe", "value" : "24%"}
+      ]
+    },
+    {
+      "name" : "Canada",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "8.7"},
+      {"name" : "% pop that reported corruption", "value" : "89%"},
+      {"name" : "% pop that paid bribe to police", "value" : "3%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "26%"},
+      {"name" : "corruption in political parties", "value" : "3.9"},
+      {"name" : "% pop that paid bribe", "value" : "5%"}
+      ]
+    },
+    {
+      "name" : "Chile",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "7.2"},
+      {"name" : "% pop that reported corruption", "value" : "90%"},
+      {"name" : "% pop that paid bribe to police", "value" : "5%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "38%"},
+      {"name" : "corruption in political parties", "value" : "4.0"},
+      {"name" : "% pop that paid bribe", "value" : "41%"}
+      ]
+    },
+    {
+      "name" : "China",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.6"},
+      {"name" : "% pop that reported corruption", "value" : "57%"},
+      {"name" : "% pop that paid bribe to police", "value" : "9%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "36%"},
+      {"name" : "corruption in political parties", "value" : "3.4"},
+      {"name" : "% pop that paid bribe", "value" : "51%"}
+      ]
+    },
+    {
+      "name" : "Colombia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.4"},
+      {"name" : "% pop that reported corruption", "value" : "86%"},
+      {"name" : "% pop that paid bribe to police", "value" : "31%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "35%"},
+      {"name" : "corruption in political parties", "value" : "4.2"},
+      {"name" : "% pop that paid bribe", "value" : "38%"}
+      ]
+    },
+    {
+      "name" : "Croatia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "4.0"},
+      {"name" : "% pop that reported corruption", "value" : "74%"},
+      {"name" : "% pop that paid bribe to police", "value" : "5%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "28%"},
+      {"name" : "corruption in political parties", "value" : "4.0"},
+      {"name" : "% pop that paid bribe", "value" : "2%"}
+      ]
+    },
+    {
+      "name" : "Czech Republic",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "4.4"},
+      {"name" : "% pop that reported corruption", "value" : "52%"},
+      {"name" : "% pop that paid bribe to police", "value" : "7%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "12%"},
+      {"name" : "corruption in political parties", "value" : "3.8"},
+      {"name" : "% pop that paid bribe", "value" : "41%"}
+      ]
+    },
+    {
+      "name" : "Democratic Republic of the Congo",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.2"},
+      {"name" : "% pop that reported corruption", "value" : "72%"},
+      {"name" : "% pop that paid bribe to police", "value" : "64%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "29%"},
+      {"name" : "corruption in political parties", "value" : "4.2"},
+      {"name" : "% pop that paid bribe", "value" : "23%"}
+      ]
+    },
+    {
+      "name" : "Denmark",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "9.4"},
+      {"name" : "% pop that reported corruption", "value" : "92%"},
+      {"name" : "% pop that paid bribe to police", "value" : "0%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "56%"},
+      {"name" : "corruption in political parties", "value" : "2.8"},
+      {"name" : "% pop that paid bribe", "value" : "0%"}
+      ]
+    },
+    {
+      "name" : "El Salvador",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.4"},
+      {"name" : "% pop that reported corruption", "value" : "98%"},
+      {"name" : "% pop that paid bribe to police", "value" : "43%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "15%"},
+      {"name" : "corruption in political parties", "value" : "4.4"},
+      {"name" : "% pop that paid bribe", "value" : "6%"}
+      ]
+    },
+    {
+      "name" : "Ethiopia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.7"},
+      {"name" : "% pop that reported corruption", "value" : "61%"},
+      {"name" : "% pop that paid bribe to police", "value" : "44%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "59%"},
+      {"name" : "corruption in political parties", "value" : "3.0"},
+      {"name" : "% pop that paid bribe", "value" : "28%"}
+      ]
+    },
+    {
+      "name" : "Fiji",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : null},
+      {"name" : "% pop that reported corruption", "value" : "95%"},
+      {"name" : "% pop that paid bribe to police", "value" : "5%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "88%"},
+      {"name" : "corruption in political parties", "value" : "3.4"},
+      {"name" : "% pop that paid bribe", "value" : "22%"}
+      ]
+    },
+    {
+      "name" : "Finland",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "9.4"},
+      {"name" : "% pop that reported corruption", "value" : "92%"},
+      {"name" : "% pop that paid bribe to police", "value" : "1%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "35%"},
+      {"name" : "corruption in political parties", "value" : "3.7"},
+      {"name" : "% pop that paid bribe", "value" : "36%"}
+      ]
+    },
+    {
+      "name" : "France",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "7.0"},
+      {"name" : "% pop that reported corruption", "value" : "74%"},
+      {"name" : "% pop that paid bribe to police", "value" : "2%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "27%"},
+      {"name" : "corruption in political parties", "value" : "3.6"},
+      {"name" : "% pop that paid bribe", "value" : "27%"}
+      ]
+    },
+    {
+      "name" : "FYR Macedonia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.9"},
+      {"name" : "% pop that reported corruption", "value" : "85%"},
+      {"name" : "% pop that paid bribe to police", "value" : "16%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "53%"},
+      {"name" : "corruption in political parties", "value" : "3.7"},
+      {"name" : "% pop that paid bribe", "value" : "43%"}
+      ]
+    },
+    {
+      "name" : "Georgia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "4.1"},
+      {"name" : "% pop that reported corruption", "value" : "58%"},
+      {"name" : "% pop that paid bribe to police", "value" : "3%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "77%"},
+      {"name" : "corruption in political parties", "value" : "2.9"},
+      {"name" : "% pop that paid bribe", "value" : "3%"}
+      ]
+    },
+    {
+      "name" : "Germany",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "8.0"},
+      {"name" : "% pop that reported corruption", "value" : "86%"},
+      {"name" : "% pop that paid bribe to police", "value" : "2%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "21%"},
+      {"name" : "corruption in political parties", "value" : "3.7"},
+      {"name" : "% pop that paid bribe", "value" : "24%"}
+      ]
+    },
+    {
+      "name" : "Ghana",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.9"},
+      {"name" : "% pop that reported corruption", "value" : "90%"},
+      {"name" : "% pop that paid bribe to police", "value" : "59%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "55%"},
+      {"name" : "corruption in political parties", "value" : "4.1"},
+      {"name" : "% pop that paid bribe", "value" : "16%"}
+      ]
+    },
+    {
+      "name" : "Greece",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.4"},
+      {"name" : "% pop that reported corruption", "value" : "82%"},
+      {"name" : "% pop that paid bribe to police", "value" : "3%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "24%"},
+      {"name" : "corruption in political parties", "value" : "4.6"},
+      {"name" : "% pop that paid bribe", "value" : "48%"}
+      ]
+    },
+    {
+      "name" : "Hong Kong",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "8.4"},
+      {"name" : "% pop that reported corruption", "value" : "77%"},
+      {"name" : "% pop that paid bribe to police", "value" : "6%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "28%"},
+      {"name" : "corruption in political parties", "value" : "3.3"},
+      {"name" : "% pop that paid bribe", "value" : "36%"}
+      ]
+    },
+    {
+      "name" : "Hungary",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "4.6"},
+      {"name" : "% pop that reported corruption", "value" : "69%"},
+      {"name" : "% pop that paid bribe to police", "value" : "2%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "42%"},
+      {"name" : "corruption in political parties", "value" : "3.9"},
+      {"name" : "% pop that paid bribe", "value" : "49%"}
+      ]
+    },
+    {
+      "name" : "Iceland",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "8.3"},
+      {"name" : "% pop that reported corruption", "value" : "91%"},
+      {"name" : "% pop that paid bribe to police", "value" : "3%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "22%"},
+      {"name" : "corruption in political parties", "value" : "4.3"},
+      {"name" : "% pop that paid bribe", "value" : "22%"}
+      ]
+    },
+    {
+      "name" : "India",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.1"},
+      {"name" : "% pop that reported corruption", "value" : "73%"},
+      {"name" : "% pop that paid bribe to police", "value" : "64%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "25%"},
+      {"name" : "corruption in political parties", "value" : "4.2"},
+      {"name" : "% pop that paid bribe", "value" : "22%"}
+      ]
+    },
+    {
+      "name" : "Indonesia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.0"},
+      {"name" : "% pop that reported corruption", "value" : "62%"},
+      {"name" : "% pop that paid bribe to police", "value" : "11%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "33%"},
+      {"name" : "corruption in political parties", "value" : "3.5"},
+      {"name" : "% pop that paid bribe", "value" : "33%"}
+      ]
+    },
+    {
+      "name" : "Iraq",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "1.8"},
+      {"name" : "% pop that reported corruption", "value" : "69%"},
+      {"name" : "% pop that paid bribe to police", "value" : "64%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "18%"},
+      {"name" : "corruption in political parties", "value" : "3.9"},
+      {"name" : "% pop that paid bribe", "value" : "12%"}
+      ]
+    },
+    {
+      "name" : "Ireland",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "7.5"},
+      {"name" : "% pop that reported corruption", "value" : "92%"},
+      {"name" : "% pop that paid bribe to police", "value" : "2%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "18%"},
+      {"name" : "corruption in political parties", "value" : "4.4"},
+      {"name" : "% pop that paid bribe", "value" : "1%"}
+      ]
+    },
+    {
+      "name" : "Israel",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "5.8"},
+      {"name" : "% pop that reported corruption", "value" : "88%"},
+      {"name" : "% pop that paid bribe to police", "value" : "1%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "18%"},
+      {"name" : "corruption in political parties", "value" : "4.5"},
+      {"name" : "% pop that paid bribe", "value" : "4%"}
+      ]
+    },
+    {
+      "name" : "Italy",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.9"},
+      {"name" : "% pop that reported corruption", "value" : "81%"},
+      {"name" : "% pop that paid bribe to police", "value" : "4%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "19%"},
+      {"name" : "corruption in political parties", "value" : "4.4"},
+      {"name" : "% pop that paid bribe", "value" : "9%"}
+      ]
+    },
+    {
+      "name" : "Japan",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "8.0"},
+      {"name" : "% pop that reported corruption", "value" : "66%"},
+      {"name" : "% pop that paid bribe to police", "value" : "6%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "20%"},
+      {"name" : "corruption in political parties", "value" : "4.2"},
+      {"name" : "% pop that paid bribe", "value" : "20%"}
+      ]
+    },
+    {
+      "name" : "Kenya",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.2"},
+      {"name" : "% pop that reported corruption", "value" : "88%"},
+      {"name" : "% pop that paid bribe to police", "value" : "59%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "70%"},
+      {"name" : "corruption in political parties", "value" : "3.8"},
+      {"name" : "% pop that paid bribe", "value" : "26%"}
+      ]
+    },
+    {
+      "name" : "Korea (South)",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "5.4"},
+      {"name" : "% pop that reported corruption", "value" : "66%"},
+      {"name" : "% pop that paid bribe to police", "value" : "3%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "26%"},
+      {"name" : "corruption in political parties", "value" : "4.0"},
+      {"name" : "% pop that paid bribe", "value" : "2%"}
+      ]
+    },
+    {
+      "name" : "Kosovo",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.9"},
+      {"name" : "% pop that reported corruption", "value" : "91%"},
+      {"name" : "% pop that paid bribe to police", "value" : "3%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "32%"},
+      {"name" : "corruption in political parties", "value" : "4.2"},
+      {"name" : "% pop that paid bribe", "value" : "14%"}
+      ]
+    },
+    {
+      "name" : "Latvia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : null},
+      {"name" : "% pop that reported corruption", "value" : "56%"},
+      {"name" : "% pop that paid bribe to police", "value" : "21%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "12%"},
+      {"name" : "corruption in political parties", "value" : "4.0"},
+      {"name" : "% pop that paid bribe", "value" : "5%"}
+      ]
+    },
+    {
+      "name" : "Lebanon",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.5"},
+      {"name" : "% pop that reported corruption", "value" : "78%"},
+      {"name" : "% pop that paid bribe to police", "value" : "38%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "32%"},
+      {"name" : "corruption in political parties", "value" : "4.1"},
+      {"name" : "% pop that paid bribe", "value" : "28%"}
+      ]
+    },
+    {
+      "name" : "Liberia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.2"},
+      {"name" : "% pop that reported corruption", "value" : "95%"},
+      {"name" : "% pop that paid bribe to police", "value" : "86%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "46%"},
+      {"name" : "corruption in political parties", "value" : "2.9"},
+      {"name" : "% pop that paid bribe", "value" : "7%"}
+      ]
+    },
+    {
+      "name" : "Lithuania",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "4.8"},
+      {"name" : "% pop that reported corruption", "value" : "60%"},
+      {"name" : "% pop that paid bribe to police", "value" : "32%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "6%"},
+      {"name" : "corruption in political parties", "value" : "4.2"},
+      {"name" : "% pop that paid bribe", "value" : "37%"}
+      ]
+    },
+    {
+      "name" : "Luxembourg",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "8.5"},
+      {"name" : "% pop that reported corruption", "value" : "77%"},
+      {"name" : "% pop that paid bribe to police", "value" : "11%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "68%"},
+      {"name" : "corruption in political parties", "value" : "2.9"},
+      {"name" : "% pop that paid bribe", "value" : "22%"}
+      ]
+    },
+    {
+      "name" : "Malawi",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.0"},
+      {"name" : "% pop that reported corruption", "value" : "88%"},
+      {"name" : "% pop that paid bribe to police", "value" : "57%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "52%"},
+      {"name" : "corruption in political parties", "value" : "4.0"},
+      {"name" : "% pop that paid bribe", "value" : "12%"}
+      ]
+    },
+    {
+      "name" : "Malaysia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "4.3"},
+      {"name" : "% pop that reported corruption", "value" : "85%"},
+      {"name" : "% pop that paid bribe to police", "value" : "24%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "48%"},
+      {"name" : "corruption in political parties", "value" : "4.0"},
+      {"name" : "% pop that paid bribe", "value" : "10%"}
+      ]
+    },
+    {
+      "name" : "Maldives",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.5"},
+      {"name" : "% pop that reported corruption", "value" : "93%"},
+      {"name" : "% pop that paid bribe to police", "value" : "2%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "46%"},
+      {"name" : "corruption in political parties", "value" : "4.1"},
+      {"name" : "% pop that paid bribe", "value" : "17%"}
+      ]
+    },
+    {
+      "name" : "Mexico",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.0"},
+      {"name" : "% pop that reported corruption", "value" : "85%"},
+      {"name" : "% pop that paid bribe to police", "value" : "50%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "22%"},
+      {"name" : "corruption in political parties", "value" : "4.4"},
+      {"name" : "% pop that paid bribe", "value" : "26%"}
+      ]
+    },
+    {
+      "name" : "Moldova",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.9"},
+      {"name" : "% pop that reported corruption", "value" : "54%"},
+      {"name" : "% pop that paid bribe to police", "value" : "46%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "18%"},
+      {"name" : "corruption in political parties", "value" : "3.8"},
+      {"name" : "% pop that paid bribe", "value" : "21%"}
+      ]
+    },
+    {
+      "name" : "Mongolia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.7"},
+      {"name" : "% pop that reported corruption", "value" : "77%"},
+      {"name" : "% pop that paid bribe to police", "value" : "48%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "19%"},
+      {"name" : "corruption in political parties", "value" : "4.2"},
+      {"name" : "% pop that paid bribe", "value" : "14%"}
+      ]
+    },
+    {
+      "name" : "Morocco",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.4"},
+      {"name" : "% pop that reported corruption", "value" : "43%"},
+      {"name" : "% pop that paid bribe to police", "value" : null},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "18%"},
+      {"name" : "corruption in political parties", "value" : "2.7"},
+      {"name" : "% pop that paid bribe", "value" : "18%"}
+      ]
+    },
+    {
+      "name" : "Mozambique",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.7"},
+      {"name" : "% pop that reported corruption", "value" : "82%"},
+      {"name" : "% pop that paid bribe to police", "value" : "48%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "32%"},
+      {"name" : "corruption in political parties", "value" : "3.5"},
+      {"name" : "% pop that paid bribe", "value" : "13%"}
+      ]
+    },
+    {
+      "name" : "Nepal",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.2"},
+      {"name" : "% pop that reported corruption", "value" : "74%"},
+      {"name" : "% pop that paid bribe to police", "value" : "25%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "41%"},
+      {"name" : "corruption in political parties", "value" : "3.9"},
+      {"name" : "% pop that paid bribe", "value" : "11%"}
+      ]
+    },
+    {
+      "name" : "Netherlands",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "8.9"},
+      {"name" : "% pop that reported corruption", "value" : "84%"},
+      {"name" : "% pop that paid bribe to police", "value" : "2%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "57%"},
+      {"name" : "corruption in political parties", "value" : "3.0"},
+      {"name" : "% pop that paid bribe", "value" : "4%"}
+      ]
+    },
+    {
+      "name" : "New Zealand",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "9.5"},
+      {"name" : "% pop that reported corruption", "value" : "93%"},
+      {"name" : "% pop that paid bribe to police", "value" : "3%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "54%"},
+      {"name" : "corruption in political parties", "value" : "3.5"},
+      {"name" : "% pop that paid bribe", "value" : "1%"}
+      ]
+    },
+    {
+      "name" : "Nigeria",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.4"},
+      {"name" : "% pop that reported corruption", "value" : "81%"},
+      {"name" : "% pop that paid bribe to police", "value" : "78%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "46%"},
+      {"name" : "corruption in political parties", "value" : "4.5"},
+      {"name" : "% pop that paid bribe", "value" : "10%"}
+      ]
+    },
+    {
+      "name" : "North America",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : null},
+      {"name" : "% pop that reported corruption", "value" : "92%"},
+      {"name" : "% pop that paid bribe to police", "value" : null},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : null},
+      {"name" : "corruption in political parties", "value" : null},
+      {"name" : "% pop that paid bribe", "value" : null}
+      ]
+    },
+    {
+      "name" : "Northern Sudan",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : null},
+      {"name" : "% pop that reported corruption", "value" : "93%"},
+      {"name" : "% pop that paid bribe to police", "value" : null},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : null},
+      {"name" : "corruption in political parties", "value" : null},
+      {"name" : "% pop that paid bribe", "value" : null}
+      ]
+    },
+    {
+      "name" : "Norway",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "9.0"},
+      {"name" : "% pop that reported corruption", "value" : "93%"},
+      {"name" : "% pop that paid bribe to police", "value" : "0%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "39%"},
+      {"name" : "corruption in political parties", "value" : "3.0"},
+      {"name" : "% pop that paid bribe", "value" : "29%"}
+      ]
+    },
+    {
+      "name" : "Pakistan",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.5"},
+      {"name" : "% pop that reported corruption", "value" : "79%"},
+      {"name" : "% pop that paid bribe to police", "value" : "64%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "12%"},
+      {"name" : "corruption in political parties", "value" : "4.1"},
+      {"name" : "% pop that paid bribe", "value" : "20%"}
+      ]
+    },
+    {
+      "name" : "Palestine",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : null},
+      {"name" : "% pop that reported corruption", "value" : "78%"},
+      {"name" : "% pop that paid bribe to police", "value" : "29%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "59%"},
+      {"name" : "corruption in political parties", "value" : "3.1"},
+      {"name" : "% pop that paid bribe", "value" : "11%"}
+      ]
+    },
+    {
+      "name" : "Papua New Guinea",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.2"},
+      {"name" : "% pop that reported corruption", "value" : "97%"},
+      {"name" : "% pop that paid bribe to police", "value" : null},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "24%"},
+      {"name" : "corruption in political parties", "value" : "4.0"},
+      {"name" : "% pop that paid bribe", "value" : "25%"}
+      ]
+    },
+    {
+      "name" : "Peru",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.4"},
+      {"name" : "% pop that reported corruption", "value" : "92%"},
+      {"name" : "% pop that paid bribe to police", "value" : "33%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "8%"},
+      {"name" : "corruption in political parties", "value" : "4.2"},
+      {"name" : "% pop that paid bribe", "value" : "27%"}
+      ]
+    },
+    {
+      "name" : "Philippines",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.6"},
+      {"name" : "% pop that reported corruption", "value" : "77%"},
+      {"name" : "% pop that paid bribe to police", "value" : "32%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "28%"},
+      {"name" : "corruption in political parties", "value" : "3.6"},
+      {"name" : "% pop that paid bribe", "value" : "17%"}
+      ]
+    },
+    {
+      "name" : "Poland",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "5.5"},
+      {"name" : "% pop that reported corruption", "value" : "53%"},
+      {"name" : "% pop that paid bribe to police", "value" : "13%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "16%"},
+      {"name" : "corruption in political parties", "value" : "3.6"},
+      {"name" : "% pop that paid bribe", "value" : "38%"}
+      ]
+    },
+    {
+      "name" : "Portugal",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "6.1"},
+      {"name" : "% pop that reported corruption", "value" : "82%"},
+      {"name" : "% pop that paid bribe to police", "value" : "3%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "10%"},
+      {"name" : "corruption in political parties", "value" : "4.2"},
+      {"name" : "% pop that paid bribe", "value" : "11%"}
+      ]
+    },
+    {
+      "name" : "Romania",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.6"},
+      {"name" : "% pop that reported corruption", "value" : "67%"},
+      {"name" : "% pop that paid bribe to police", "value" : "17%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "7%"},
+      {"name" : "corruption in political parties", "value" : "4.5"},
+      {"name" : "% pop that paid bribe", "value" : "39%"}
+      ]
+    },
+    {
+      "name" : "Russia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.4"},
+      {"name" : "% pop that reported corruption", "value" : "52%"},
+      {"name" : "% pop that paid bribe to police", "value" : "28%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "26%"},
+      {"name" : "corruption in political parties", "value" : "3.5"},
+      {"name" : "% pop that paid bribe", "value" : "13%"}
+      ]
+    },
+    {
+      "name" : "Rwanda",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "5.0"},
+      {"name" : "% pop that reported corruption", "value" : "55%"},
+      {"name" : "% pop that paid bribe to police", "value" : "42%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "66%"},
+      {"name" : "corruption in political parties", "value" : "2.6"},
+      {"name" : "% pop that paid bribe", "value" : "24%"}
+      ]
+    },
+    {
+      "name" : "Senegal",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.9"},
+      {"name" : "% pop that reported corruption", "value" : "87%"},
+      {"name" : "% pop that paid bribe to police", "value" : "56%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "22%"},
+      {"name" : "corruption in political parties", "value" : "4.4"},
+      {"name" : "% pop that paid bribe", "value" : "20%"}
+      ]
+    },
+    {
+      "name" : "Serbia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.3"},
+      {"name" : "% pop that reported corruption", "value" : "63%"},
+      {"name" : "% pop that paid bribe to police", "value" : "15%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "14%"},
+      {"name" : "corruption in political parties", "value" : "4.2"},
+      {"name" : "% pop that paid bribe", "value" : "16%"}
+      ]
+    },
+    {
+      "name" : "Sierra Leone",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.5"},
+      {"name" : "% pop that reported corruption", "value" : "88%"},
+      {"name" : "% pop that paid bribe to police", "value" : "75%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "73%"},
+      {"name" : "corruption in political parties", "value" : "3.5"},
+      {"name" : "% pop that paid bribe", "value" : "28%"}
+      ]
+    },
+    {
+      "name" : "Singapore",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "9.2"},
+      {"name" : "% pop that reported corruption", "value" : "74%"},
+      {"name" : "% pop that paid bribe to police", "value" : "8%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "30%"},
+      {"name" : "corruption in political parties", "value" : "2.9"},
+      {"name" : "% pop that paid bribe", "value" : "42%"}
+      ]
+    },
+    {
+      "name" : "Slovenia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "5.9"},
+      {"name" : "% pop that reported corruption", "value" : "84%"},
+      {"name" : "% pop that paid bribe to police", "value" : "2%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "22%"},
+      {"name" : "corruption in political parties", "value" : "4.3"},
+      {"name" : "% pop that paid bribe", "value" : "5%"}
+      ]
+    },
+    {
+      "name" : "Solomon Islands",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.7"},
+      {"name" : "% pop that reported corruption", "value" : "94%"},
+      {"name" : "% pop that paid bribe to police", "value" : "11%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "25%"},
+      {"name" : "corruption in political parties", "value" : "3.7"},
+      {"name" : "% pop that paid bribe", "value" : "22%"}
+      ]
+    },
+    {
+      "name" : "South Africa",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "4.1"},
+      {"name" : "% pop that reported corruption", "value" : "61%"},
+      {"name" : "% pop that paid bribe to police", "value" : "44%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "44%"},
+      {"name" : "corruption in political parties", "value" : "3.9"},
+      {"name" : "% pop that paid bribe", "value" : "12%"}
+      ]
+    },
+    {
+      "name" : "South Sudan",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : null},
+      {"name" : "% pop that reported corruption", "value" : "72%"},
+      {"name" : "% pop that paid bribe to police", "value" : "47%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "62%"},
+      {"name" : "corruption in political parties", "value" : "2.9"},
+      {"name" : "% pop that paid bribe", "value" : "16%"}
+      ]
+    },
+    {
+      "name" : "Spain",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "6.2"},
+      {"name" : "% pop that reported corruption", "value" : "88%"},
+      {"name" : "% pop that paid bribe to police", "value" : "4%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "26%"},
+      {"name" : "corruption in political parties", "value" : "4.4"},
+      {"name" : "% pop that paid bribe", "value" : "8%"}
+      ]
+    },
+    {
+      "name" : "Sri Lanka",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.3"},
+      {"name" : "% pop that reported corruption", "value" : "75%"},
+      {"name" : "% pop that paid bribe to police", "value" : "32%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "52%"},
+      {"name" : "corruption in political parties", "value" : "3.7"},
+      {"name" : "% pop that paid bribe", "value" : "28%"}
+      ]
+    },
+    {
+      "name" : "Sweden",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "9.3"},
+      {"name" : "% pop that reported corruption", "value" : null},
+      {"name" : "% pop that paid bribe to police", "value" : "29%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "49%"},
+      {"name" : "corruption in political parties", "value" : "2.6"},
+      {"name" : "% pop that paid bribe", "value" : "11%"}
+      ]
+    },
+    {
+      "name" : "Switzerland",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "8.8"},
+      {"name" : "% pop that reported corruption", "value" : "23%"},
+      {"name" : "% pop that paid bribe to police", "value" : "2%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "37%"},
+      {"name" : "corruption in political parties", "value" : "2.9"},
+      {"name" : "% pop that paid bribe", "value" : "3%"}
+      ]
+    },
+    {
+      "name" : "Taiwan",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "6.1"},
+      {"name" : "% pop that reported corruption", "value" : "66%"},
+      {"name" : "% pop that paid bribe to police", "value" : "8%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "38%"},
+      {"name" : "corruption in political parties", "value" : "3.5"},
+      {"name" : "% pop that paid bribe", "value" : "30%"}
+      ]
+    },
+    {
+      "name" : "Tanzania",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.0"},
+      {"name" : "% pop that reported corruption", "value" : "89%"},
+      {"name" : "% pop that paid bribe to police", "value" : "48%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "32%"},
+      {"name" : "corruption in political parties", "value" : "3.5"},
+      {"name" : "% pop that paid bribe", "value" : "27%"}
+      ]
+    },
+    {
+      "name" : "Thailand",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.4"},
+      {"name" : "% pop that reported corruption", "value" : "64%"},
+      {"name" : "% pop that paid bribe to police", "value" : "16%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "22%"},
+      {"name" : "corruption in political parties", "value" : "3.6"},
+      {"name" : "% pop that paid bribe", "value" : "27%"}
+      ]
+    },
+    {
+      "name" : "Turkey",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "4.2"},
+      {"name" : "% pop that reported corruption", "value" : "82%"},
+      {"name" : "% pop that paid bribe to police", "value" : "29%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "59%"},
+      {"name" : "corruption in political parties", "value" : "3.2"},
+      {"name" : "% pop that paid bribe", "value" : "7%"}
+      ]
+    },
+    {
+      "name" : "Uganda",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.4"},
+      {"name" : "% pop that reported corruption", "value" : "78%"},
+      {"name" : "% pop that paid bribe to police", "value" : "81%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "58%"},
+      {"name" : "corruption in political parties", "value" : "3.1"},
+      {"name" : "% pop that paid bribe", "value" : "31%"}
+      ]
+    },
+    {
+      "name" : "UK",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "7.8"},
+      {"name" : "% pop that reported corruption", "value" : "92%"},
+      {"name" : "% pop that paid bribe to police", "value" : "1%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "34%"},
+      {"name" : "corruption in political parties", "value" : "4.0"},
+      {"name" : "% pop that paid bribe", "value" : "1%"}
+      ]
+    },
+    {
+      "name" : "Ukraine",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.3"},
+      {"name" : "% pop that reported corruption", "value" : "39%"},
+      {"name" : "% pop that paid bribe to police", "value" : "39%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "16%"},
+      {"name" : "corruption in political parties", "value" : "4.0"},
+      {"name" : "% pop that paid bribe", "value" : "22%"}
+      ]
+    },
+    {
+      "name" : "USA",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "7.1"},
+      {"name" : "% pop that reported corruption", "value" : "92%"},
+      {"name" : "% pop that paid bribe to police", "value" : "6%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "29%"},
+      {"name" : "corruption in political parties", "value" : "4.3"},
+      {"name" : "% pop that paid bribe", "value" : "7%"}
+      ]
+    },
+    {
+      "name" : "Vanuatu",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.5"},
+      {"name" : "% pop that reported corruption", "value" : "97%"},
+      {"name" : "% pop that paid bribe to police", "value" : "8%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "32%"},
+      {"name" : "corruption in political parties", "value" : "4.0"},
+      {"name" : "% pop that paid bribe", "value" : "16%"}
+      ]
+    },
+    {
+      "name" : "Venezuela",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "1.9"},
+      {"name" : "% pop that reported corruption", "value" : "79%"},
+      {"name" : "% pop that paid bribe to police", "value" : "29%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "7%"},
+      {"name" : "corruption in political parties", "value" : "4.0"},
+      {"name" : "% pop that paid bribe", "value" : "18%"}
+      ]
+    },
+    {
+      "name" : "Vietnam",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.9"},
+      {"name" : "% pop that reported corruption", "value" : "66%"},
+      {"name" : "% pop that paid bribe to police", "value" : "49%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "37%"},
+      {"name" : "corruption in political parties", "value" : "2.0"},
+      {"name" : "% pop that paid bribe", "value" : "6%"}
+      ]
+    },
+    {
+      "name" : "Yemen",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.1"},
+      {"name" : "% pop that reported corruption", "value" : "91%"},
+      {"name" : "% pop that paid bribe to police", "value" : "64%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "22%"},
+      {"name" : "corruption in political parties", "value" : "4.0"},
+      {"name" : "% pop that paid bribe", "value" : "39%"}
+      ]
+    },
+    {
+      "name" : "Zambia",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "3.2"},
+      {"name" : "% pop that reported corruption", "value" : "92%"},
+      {"name" : "% pop that paid bribe to police", "value" : "38%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "40%"},
+      {"name" : "corruption in political parties", "value" : "3.6"},
+      {"name" : "% pop that paid bribe", "value" : "11%"}
+      ]
+    },
+    {
+      "name" : "Zimbabwe",
+      "picture" : "http://15iacc.org/wp-content/themes/IACC/images/logo.jpg",
+      "properties" : [
+      {"name" : "cpi score", "value" : "2.2"},
+      {"name" : "% pop that reported corruption", "value" : "66%"},
+      {"name" : "% pop that paid bribe to police", "value" : "53%"},
+      {"name" : "%  of pop that thinks govt is fighting corruption", "value" : "25%"},
+      {"name" : "corruption in political parties", "value" : "4.1"},
+      {"name" : "% pop that paid bribe", "value" : "28%"}
+      ]
+    }
+  ]
+}

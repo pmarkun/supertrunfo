@@ -1,0 +1,64 @@
+div.card {
+    margin:5px;
+    width: 215px;
+    height: 300px;
+    background-color:#ffcc00;
+    border-radius: 15px;
+    padding-top:10px;
+    float:right;
+}
+
+.card .inner {
+    width: 185px;
+    height: 280px;
+    margin:0 auto;
+    background-color:#ccc;
+    border-radius: 15px;
+}
+
+.card .picture {
+    margin:0 auto;
+    padding-top:10px;
+    width:185px;
+    text-align:center;
+}
+.card .picture img {
+    width:150px;
+    height:100px;
+    }
+    
+.card h1 {
+    margin: 0 auto;
+    width:185px;
+    text-align:center;
+    font-size:1.5em;
+}
+
+.card .properties {
+    width:185px;
+    font-size:0.6em;
+    }
+    
+.card tr td {
+    border-bottom:1px solid #000;
+    }
+
+.card tr:last-child td {
+    border-bottom:none;
+    }
+    
+.card tr.last td {
+    border-bottom:none;
+    }
+    
+.card td.name {
+    text-align:left;
+    }
+.card td.value {
+    text-align:right;
+    }
+
+
+.card {
+    page-break-before: always;
+}

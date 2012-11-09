@@ -1,0 +1,292 @@
+{
+  "cards" : [
+    {
+      "name" : "MAPA",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1860"},
+      { "name" : "Receita Prevista", "value" : "2.96"},
+      { "name" : "Receita Realizada", "value" : "2.71"},
+      { "name" : "Servidores", "value" : "25731"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "3018"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "6"}
+      ],
+      "picture" : "http://www.revistamercado.com.br/imagens/conteudo/39/agricultura_1.jpg"
+    },
+    {
+      "name" : "MCidades",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "2003"},
+      { "name" : "Receita Prevista", "value" : "0.89"},
+      { "name" : "Receita Realizada", "value" : "1.16"},
+      { "name" : "Servidores", "value" : "349"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "883"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "4"}
+      ],
+      "picture" : "http://info.opersan.com.br/Portals/138299/images/Sao-Paulo-1.jpg"
+    },
+    {
+      "name" : "MCTI",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1985"},
+      { "name" : "Receita Prevista", "value" : "6.77"},
+      { "name" : "Receita Realizada", "value" : "4.78"},
+      { "name" : "Servidores", "value" : "9477"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "1238"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "7"}
+      ],
+      "picture" : "http://www.editorapositivo.com.br/lib/images/artigos-e-noticias/artigos-tecnologia_naoseinadatecnologia.jpg"
+    },
+    {
+      "name" : "MC",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1967"},
+      { "name" : "Receita Prevista", "value" : "2.65"},
+      { "name" : "Receita Realizada", "value" : "7.28"},
+      { "name" : "Servidores", "value" : "2403"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "958"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "7"}
+      ],
+      "picture" : "http://s.glbimg.com/og/rg/f/original/2011/03/01/antena1_300x225.jpg"
+    },
+    {
+      "name" : "MinC",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1985"},
+      { "name" : "Receita Prevista", "value" : "0.31"},
+      { "name" : "Receita Realizada", "value" : "0.28"},
+      { "name" : "Servidores", "value" : "3409"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "1391"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "5"}
+      ],
+      "picture" : "http://3.bp.blogspot.com/-y44-UAt_yK8/UE-jsuk-leI/AAAAAAAAAWQ/dvOvb2U9y8s/s1600/3.jpg"
+    },
+    {
+      "name" : "MD",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1999"},
+      { "name" : "Receita Prevista", "value" : "7.37"},
+      { "name" : "Receita Realizada", "value" : "7.54"},
+      { "name" : "Servidores", "value" : "373254"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "4271"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "7"}
+      ],
+      "picture" : "http://www.soudemontealegre.com.br/wp-content/uploads/2012/08/exercito.jpg"
+    },
+    {
+      "name" : "MDA",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1999"},
+      { "name" : "Receita Prevista", "value" : "1.45"},
+      { "name" : "Receita Realizada", "value" : "1.18"},
+      { "name" : "Servidores", "value" : "5976"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "1073"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "7"}
+      ],
+      "picture" : "http://www.geomundo.com.br/images/images-geografia/agricultura-familiar2.jpg"
+    },
+    {
+      "name" : "MDIC",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1860"},
+      { "name" : "Receita Prevista", "value" : "2.27"},
+      { "name" : "Receita Realizada", "value" : "2.60"},
+      { "name" : "Servidores", "value" : "3149"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "901"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "4"}
+      ],
+      "picture" : "http://www.acieg.com.br/novo/wp-content/uploads/2012/08/27789766bbcc882b528678960591df93fbb.jpg"
+    },
+    {
+      "name" : "MDS",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "2003"},
+      { "name" : "Receita Prevista", "value" : "0.14"},
+      { "name" : "Receita Realizada", "value" : "0.16"},
+      { "name" : "Servidores", "value" : "562"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "606"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "3"}
+      ],
+      "picture" : "http://4.bp.blogspot.com/-CPsj6yS2wKQ/Tg9y-nPHsHI/AAAAAAAAAWQ/aMjTXBC1psA/s1600/fome.jpg"
+    },
+    {
+      "name" : "MEC",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1890"},
+      { "name" : "Receita Prevista", "value" : "54.0"},
+      { "name" : "Receita Realizada", "value" : "15.6"},
+      { "name" : "Servidores", "value" : "237334"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "33082"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "5"}
+      ],
+      "picture" : "http://www.maesaobra.com.br/wp-content/uploads/2012/09/escola.jpg"
+    },
+    {
+      "name" : "ME",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1992"},
+      { "name" : "Receita Prevista", "value" : "0.25"},
+      { "name" : "Receita Realizada", "value" : "0.08"},
+      { "name" : "Servidores", "value" : "285"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "276"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "7"}
+      ],
+      "picture" : "http://4.bp.blogspot.com/_KYflagr2MuI/TGLe5K5XwbI/AAAAAAAACqk/WvWV6O6lUgU/s1600/maracana.jpg"
+    },
+    {
+      "name" : "MF",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1761"},
+      { "name" : "Receita Prevista", "value" : "1561"},
+      { "name" : "Receita Realizada", "value" : "1387"},
+      { "name" : "Servidores", "value" : "59430"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "8170"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "4"}
+      ],
+      "picture" : "http://blogs.estadao.com.br/descomplicador/wp-content/blogs.dir/32/files/2010/01/Moedas._Marcos_Mendes.AE.JPG"
+    },
+    {
+      "name" : "MI",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1999"},
+      { "name" : "Receita Prevista", "value" : "8.96"},
+      { "name" : "Receita Realizada", "value" : "0.32"},
+      { "name" : "Servidores", "value" : "4614"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "1282"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "8"}
+      ],
+      "picture" : "http://www.flickr.com/photos/integracao_nacional/6987594855/"
+    },
+    {
+      "name" : "MJ",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1643"},
+      { "name" : "Receita Prevista", "value" : "1.09"},
+      { "name" : "Receita Realizada", "value" : "1.21"},
+      { "name" : "Servidores", "value" : "29888"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "4238"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "7"}
+      ],
+      "picture" : "http://www.radiojustica.jus.br/arquivo/radioNoticia/imagem/STF.3.jpg"
+    },
+    {
+      "name" : "MMA",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1992"},
+      { "name" : "Receita Prevista", "value" : "1.96"},
+      { "name" : "Receita Realizada", "value" : "0.63"},
+      { "name" : "Servidores", "value" : "10553"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "1191"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "5"}
+      ],
+      "picture" : "http://4.bp.blogspot.com/_P3BvaDvVAyk/SihZeKN5jNI/AAAAAAAABoA/i6IIOVX1Deg/s400/piscina_natural.jpg"
+    },
+    {
+      "name" : "MME",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1960"},
+      { "name" : "Receita Prevista", "value" : "24.6"},
+      { "name" : "Receita Realizada", "value" : "5.06"},
+      { "name" : "Servidores", "value" : "4401"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "1489"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "10"}
+      ],
+      "picture" : "http://www.brasileconomico.ig.com.br/public/uploads/articles/foto_pagina/energia_bb_02.jpg"
+    },
+    {
+      "name" : "MPA",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "2009"},
+      { "name" : "Receita Prevista", "value" : "0.00"},
+      { "name" : "Receita Realizada", "value" : "0.00"},
+      { "name" : "Servidores", "value" : "445"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "392"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "5"}
+      ],
+      "picture" : "http://portalmaritimo.files.wordpress.com/2011/01/pesca-industrial.jpg?w=500"
+    },
+    {
+      "name" : "MPOG",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1961"},
+      { "name" : "Receita Prevista", "value" : "0.13"},
+      { "name" : "Receita Realizada", "value" : "0.04"},
+      { "name" : "Servidores", "value" : "16730"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "4214"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "5"}
+      ],
+      "picture" : "http://www.transpi.com.br/orcamento.jpg"
+    },
+    {
+      "name" : "MPS",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1960"},
+      { "name" : "Receita Prevista", "value" : "240."},
+      { "name" : "Receita Realizada", "value" : "245."},
+      { "name" : "Servidores", "value" : "39000"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "5617"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "10"}
+      ],
+      "picture" : "http://cdn.mundodastribos.com/melhor-plano-de-previdencia-privadajpg.jpg"
+    },
+    {
+      "name" : "MRE",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1736"},
+      { "name" : "Receita Prevista", "value" : "0.17"},
+      { "name" : "Receita Realizada", "value" : "0.16"},
+      { "name" : "Servidores", "value" : "3708"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "782"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "4"}
+      ],
+      "picture" : "http://leonardovieiradeoliveira.files.wordpress.com/2011/05/palaciodoitamaraty.jpg"
+    },
+    {
+      "name" : "MS",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1930"},
+      { "name" : "Receita Prevista", "value" : "3.53"},
+      { "name" : "Receita Realizada", "value" : "4.09"},
+      { "name" : "Servidores", "value" : "97961"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "5197"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "6"}
+      ],
+      "picture" : "http://www.rdnews.com.br/uploads/Image/politicos/hospital_roo2.jpg"
+    },
+    {
+      "name" : "MTE",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1930"},
+      { "name" : "Receita Prevista", "value" : "46.1"},
+      { "name" : "Receita Realizada", "value" : "15.0"},
+      { "name" : "Servidores", "value" : "8544"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "2238"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "10"}
+      ],
+      "picture" : "http://copa.imguol.com/album/2012/03/17/operarios-observam-jogo-dos-companheiros-no-mane-garrincha-em-brasilia-em-meio-as-obras-para-a-copa-2014-1332029523755_956x500.jpg"
+    },
+    {
+      "name" : "MT",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "1891"},
+      { "name" : "Receita Prevista", "value" : "2.66"},
+      { "name" : "Receita Realizada", "value" : "3.45"},
+      { "name" : "Servidores", "value" : "6790"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "2033"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "8"}
+      ],
+      "picture" : "http://www.google.com.br/imgres?um=1&hl=pt-BR&biw=1366&bih=630&tbm=isch&tbnid=PFUTuSHFOZM2uM:&imgrefurl=http://educacaofiscalsm.blogspot.com/2010/08/transporte-rodoviario-no-brasil.html&docid=C-VgyxK-eFUAxM&imgurl=http://4.bp.blogspot.com/_SZ7AMy5KXs0/TGFLiwPNduI/AAAAAAAABR0/PwqJG9j8Ks4/s1600/Rodovia_Bandeirantes_SAO_2008_06.jpg&w=667&h=445&ei=Q8-bUJ6WCOfW0gGV44GoBw&zoom=1&iact=hc&vpx=998&vpy=158&dur=882&hovh=183&hovw=275&tx=131&ty=101&sig=109292581214250591004&page=1&tbnh=140&tbnw=260&start=0&ndsp=15&ved=1t:429,r:4,s:0,i:78"
+    },
+    {
+      "name" : "MTur",
+      "properties" : [
+      { "name" : "Ano de Fundação", "value" : "2003"},
+      { "name" : "Receita Prevista", "value" : "0.03"},
+      { "name" : "Receita Realizada", "value" : "0.13"},
+      { "name" : "Servidores", "value" : "547"},
+      { "name" : "Servidores em Cargos de Confianca", "value" : "253"},
+      { "name" : "Qtd de Ministros (2002-2012)", "value" : "2"}
+      ],
+      "picture" : "http://revistaepoca.globo.com/Revista/Epoca/foto/0,,31250189,00.jpg"
+    }
+  ]
+}

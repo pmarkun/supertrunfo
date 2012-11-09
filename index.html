@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <title>Card</title>
+        <script language="javascript" type="text/javascript" src="./vendor/jquery.js"></script>
+        <script language="javascript" type="text/javascript" src="./vendor/ICanHaz.min.js"></script>
+        <script language="javascript" type="text/javascript" src="./js/main.js"></script>
+        
+        <link rel="stylesheet" type="text/css" href="./css/main.css" />
+        <link rel="stylesheet" type="text/css" href="./css/card.css" />
+        
+        
+        <script id="card" type="text/html">
+            <div id="{{name}}" class="card">
+                <div class="inner">
+                    <div class="picture"><img src="{{picture}}" /></div>
+                    <h1>{{name}}</h1>
+                    <table class="properties">
+                    </table>
+                </div>
+            </div>
+        </script>
+        
+        <script id="cardrow" type="text/html">
+            <tr>
+                <td class="name">{{name}}</td>
+                <td class="value">{{value}}</td>
+            </tr>
+        </script>
+    </head>
+    <body>
+        <script>
+        
+        // when the dom's ready
+        $(document).ready(function () {
+            var jsonsetting;
+            jsonsetting = gup("json");
+            $.getJSON('cards/' + jsonsetting + '.json', function(data) {
+                $.each(data.cards, function(c) {
+                    var card = data.cards[c];
+                    console.log(card);
+                    r_card = ich.card(card);
+                    
+                    $('#content').append(r_card);
+                    
+                    $.each(card.properties, function (property) {
+                        p = ich.cardrow(card.properties[property]);
+                        $('#'+ card.name +' .properties').append(p);
+                    });
+                });     
+            });         
+        });
+
+        </script>
+        <div id="content"></div>
+    </body>
+</html>
