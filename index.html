@@ -4,6 +4,7 @@
         <title>Card</title>
         <script language="javascript" type="text/javascript" src="./vendor/jquery.js"></script>
         <script language="javascript" type="text/javascript" src="./vendor/ICanHaz.min.js"></script>
+        <script language="javascript" type="text/javascript" src="./vendor/jquery.csv-0.7.js"></script>
         <script language="javascript" type="text/javascript" src="./js/main.js"></script>
         
         <link rel="stylesheet" type="text/css" href="./css/main.css" />
@@ -33,22 +34,27 @@
         
         // when the dom's ready
         $(document).ready(function () {
-            var jsonsetting;
-            jsonsetting = gup("json");
-            $.getJSON('cards/' + jsonsetting + '.json', function(data) {
-                $.each(data.cards, function(c) {
-                    var card = data.cards[c];
-                    console.log(card);
-                    r_card = ich.card(card);
-                    
-                    $('#content').append(r_card);
-                    
-                    $.each(card.properties, function (property) {
-                        p = ich.cardrow(card.properties[property]);
-                        $('#'+ card.name +' .properties').append(p);
-                    });
-                });     
-            });         
+			if (gup("json")) {
+				var jsonsetting;
+				jsonsetting = gup("json");
+				$.getJSON('cards/' + jsonsetting + '.json', function(data) {
+					     drawcards(data.cards);
+				});         
+			}
+			else if (gup("csv")) {
+				$.ajax({
+					type: "GET",
+					url: "cards/" + gup("csv") + ".csv",
+					dataType: "text",
+					success: function(data) {
+						csvtojson(data);
+						}
+				});
+			}
+			
+			else {
+				$("#content").append("<h1>Not found!</h1>");
+			}
         });
 
         </script>
